@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: Parastoo;
+    src: url('parastoo.eot');
+    src: url('parastoo.eot?#iefix') format('embedded-opentype'),
+         url('parastoo.woff') format('woff'),
+         url('parastoo.ttf') format('truetype');
+    font-weight: normal;
+  }
